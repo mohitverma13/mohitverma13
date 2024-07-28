@@ -1,4 +1,4 @@
-![logo](https://github.com/mohitverma13/mohitkumar13/blob/main/Banner.png)
+![logo](https://github.com/mohitverma13/mohitverma13/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"
