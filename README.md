@@ -1,7 +1,7 @@
 <!-- Banner (raw URL so GitHub renders it) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/mohitverma13/mohitverma13/main/Banner.png" alt="Mohit Kumar Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">Salesforce Developer @ Cognizant · Full-Stack Enthusiast · India</h3>
