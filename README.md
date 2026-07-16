@@ -1,94 +1,125 @@
-![logo](https://github.com/mohitverma13/mohitverma13/blob/main/Banner.png)
+<!-- Banner (raw URL so GitHub renders it) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohitverma13/mohitverma13/main/Banner.png" alt="Mohit Kumar Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
-<img align="right"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpqZmR0bTFxdnJscjdwdWY2cXJhaTByNW14bDNhMWMyM25idGdkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"
-    alt="" width="250">
+<h3 align="center">Salesforce Developer @ Cognizant · Full-Stack Enthusiast · India</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitkumar1315/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohitverma8822@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1L_mKiIUG7GMuCyJ4vHe5wtIDo-iewXgJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://www.leetcode.com/mohitkumar13">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-- 📫 How to reach me **mohitverma8822@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1L_mKiIUG7GMuCyJ4vHe5wtIDo-iewXgJ/view?usp=sharing" target="_blank">Resume</a>
+- 💼 **Salesforce Developer** at **Cognizant**, working on applications built on **Experience Cloud** and **Lightning Web Runtime (LWR)**
+- ⚡ Building and maintaining features with **LWC, Apex, SOQL, Flows, and Triggers**
+- 🎯 Strong focus on **code quality, performance, and cross-device usability**
+- 🔄 Experienced in supporting client-facing apps and fixing defects across **Agile sprint cycles**
+- 🌐 Working knowledge of **full-stack web development** (React, Node.js, Express)
+- 📫 Reach me at **mohitverma8822@gmail.com**
+- 📄 Full experience in my [**Resume**](https://drive.google.com/file/d/1L_mKiIUG7GMuCyJ4vHe5wtIDo-iewXgJ/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+## 🏅 Certifications
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/mohitkumar1315/" target="blank"> <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-            alt="Mohit Kumar LinkedIn" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/20937619" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="20937619" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/mohit1315" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="mohit1315" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/mohitkumar13" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="mohitkumar13" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/mohitverma8822/profile" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="mohitverma8822/profile" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Salesforce_Certified-Platform_Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Platform Administrator"/>
+  <img src="https://img.shields.io/badge/Salesforce_Certified-Platform_Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Platform Developer"/>
+  <img src="https://img.shields.io/badge/Salesforce_Certified-JavaScript_Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="JavaScript Developer"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💡 What I Do
+
+- Develop and maintain **Salesforce Experience Cloud** portals using **LWC and Apex** in production environments
+- Improve UI consistency, responsiveness, and cross-device usability by resolving layout, alignment, and spacing issues
+- Enhance code reusability and performance by applying standard LWC patterns and optimizing **Apex–SOQL** queries
+- Build and customize Salesforce solutions with **LWC, Apex, SOQL, Flows, and Triggers**
+- Support client-facing applications and deliver features within **Agile / Scrum** sprint cycles
+- Contribute to reusable UI and backend components with a focus on data consistency and secure development practices
+
+## 🛠️ Skills & Tools
+
+### Salesforce
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex"/>
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC"/>
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL"/>
+  <img src="https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Flows"/>
+  <img src="https://img.shields.io/badge/Triggers-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Triggers"/>
+  <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitverma13&show_icons=true&locale=en&layout=compact"
-        alt="mohitverma13" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mohitverma13&show_icons=true&locale=en"
-        alt="mohitverma13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitverma13&" alt="mohitverma13" />
+### Languages, Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,mysql,html,css,react,nodejs,express,git,github,vscode,postman,azure&perline=14" alt="Tech stack" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Gearset-1CA4EF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Gearset"/>
+</p>
+
+<p align="left">
+  <sub><b>Also:</b> Validation Rules · Approval Processes · Agile / Scrum & Sprint-Based Delivery · AI Tools (Claude, GitHub Copilot, ChatGPT)</sub>
+</p>
+## 🎓 Education
+
+**B.E. in Computer Science & Engineering** — Chandigarh University, Punjab
+*2021 – 2025* · CGPA: **8.33 / 10.0**
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohitkumar1315/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20937619">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.hackerrank.com/mohit1315">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/mohitkumar13">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/mohitverma8822/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitverma13&theme=tokyonight" alt="Mohit's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitverma13&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitverma13&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitverma13&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohitverma13&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitverma13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>⭐️ Feel free to explore my repositories and connect!</i></p>
